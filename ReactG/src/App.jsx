@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Parent />
-      <h1 className='text-red-800 bg-blue-400'>HEllo </h1>
+      <h1 className='text-red-800 bg-blue-400 '>HEllo </h1>
     </>
   )
 }
